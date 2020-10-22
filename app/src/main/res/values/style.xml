@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--多布局控制-->
+    <style name="CastStateView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="msv_animateViewChanges">false</item>
+        <item name="msv_emptyView">@layout/view_cast_not_open</item>
+        <item name="msv_errorView">@layout/view_cast_not_open</item>
+        <item name="msv_loadingView">@layout/view_wifi_loading</item>
+        <item name="msv_viewState">loading</item>
+    </style>
+
+</resources>

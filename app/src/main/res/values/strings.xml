@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CastDemo</string>
+
+    <string name="wifi_display_status_connecting">Connecting</string>
+    <string name="wifi_display_status_connected">Connected</string>
+    <string name="wifi_display_status_not_available">Unavailable</string>
+    <string name="wifi_display_status_in_use">In use</string>
+    <string name="wireless_display_route_description">Wireless display</string>
+
+</resources>
